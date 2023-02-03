@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-03T09:54:35 IST" name="Default suite" finished-at="2023-02-03T09:54:42 IST" duration-ms="7231">
+    <groups>
+    </groups>
+    <test started-at="2023-02-03T09:54:35 IST" name="Default test" finished-at="2023-02-03T09:54:42 IST" duration-ms="7231">
+      <class name="TC01LoginTest">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:TC01LoginTest@2ea227af]" started-at="2023-02-03T09:54:35 IST" name="BrowserSetup" finished-at="2023-02-03T09:54:42 IST" duration-ms="6755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="login()[pri:0, instance:TC01LoginTest@2ea227af]" started-at="2023-02-03T09:54:42 IST" name="login" finished-at="2023-02-03T09:54:42 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TC01LoginTest@2ea227af]" started-at="2023-02-03T09:54:42 IST" name="close" finished-at="2023-02-03T09:54:42 IST" duration-ms="387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TC01LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
